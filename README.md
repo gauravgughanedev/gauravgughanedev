@@ -7,10 +7,8 @@ Building scalable backend systems, high-performance APIs, and distributed archit
 ---
 
 ## 📧 Contact Information
-
-**Email:** gaurav@gauravgughane.dev  
-**Website:** https://gauravgughane.dev  
-**LinkedIn:** https://linkedin.com/in/gauravgughane  
+  
+**Website:** https://gauravgughane.dev   
 **GitHub:** https://github.com/gauravgughanedev  
 **Location:** Bangalore, Karnataka, India  
 
