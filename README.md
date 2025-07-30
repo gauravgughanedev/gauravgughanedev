@@ -1,4 +1,3 @@
-
 -----
 
 # Gaurav Gughane
@@ -10,11 +9,9 @@
 ### Building high-performance, scalable backend systems for modern applications.
 
 \<div align="center"\>
-
 [](https://gauravgughane.dev)
 [](https://github.com/gauravgughanedev)
 [](https://www.google.com/search?q=%23)
-
 \</div\>
 
 -----
@@ -128,11 +125,11 @@ Stack: Rust + PostgreSQL + JWT + OAuth2
 \<div align="center"\>
 
 | **Metric** | **Achievement** |
-| :---------------------- | :------------------------------------------ |
-| **Concurrent Requests** | **100,000+** handled simultaneously         |
-| **Response Time** | **Sub-50ms** API response optimization      |
-| **Database Load** | **80% reduction** through intelligent caching |
-| **Message Delivery** | **99.9% reliability** in event-driven systems |
+| :------------------ | :------------------------------------------------ |
+| **Concurrent Requests** | **100,000+** handled simultaneously               |
+| **Response Time** | **Sub-50ms** API response optimization            |
+| **Database Load** | **80% reduction** through intelligent caching     |
+| **Message Delivery** | **99.9% reliability** in event-driven systems     |
 | **System Uptime** | **99.9% availability** with zero-downtime deployments |
 | **Security** | **Zero breaches** with memory-safe Rust applications |
 
@@ -156,7 +153,7 @@ Stack: Rust + PostgreSQL + JWT + OAuth2
 \</td\>
 \<td width="50%"\>
 
-### **Architectural Expertise** 
+### **Architectural Expertise**
 
   * Event-driven microservices.
   * Distributed system design.
@@ -175,7 +172,7 @@ Stack: Rust + PostgreSQL + JWT + OAuth2
 fn current_interests() -> Vec<&'static str> {
     vec![
         "Advanced Rust patterns & async programming",
-        "Spring Boot 3 & Project Loom integration", 
+        "Spring Boot 3 & Project Loom integration",
         "Kubernetes & cloud-native architecture",
         "Performance engineering & optimization",
         "Zero-trust security implementation"
@@ -214,5 +211,3 @@ fn current_interests() -> Vec<&'static str> {
 **Enthusiastic about solving challenging technical problems with cutting-edge technology.**
 
 \</div\>
-
------
